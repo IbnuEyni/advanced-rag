@@ -23,7 +23,7 @@ This project demonstrates an advanced document retrieval system using several ke
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/IbnuEyni/advanced-rag.git
-    cd advanced-retrieval-system
+    cd advanced-rag
     ```
 
 2. **Install the required packages**  
