@@ -63,7 +63,7 @@ streamlit run app.py
 
     RecursiveCharacterTextSplitter and SentenceTransformersTokenTextSplitter are used to split the text into chunks for embedding and storage.
 
-2.**chromaDB Integration**
+2. **chromaDB Integration**
 
     Documents are embedded and stored in chromaDB to facilitate retrieval based on semantic similarity.
 
